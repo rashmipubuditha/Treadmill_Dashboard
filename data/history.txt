@@ -1,0 +1,2 @@
+05/29/24,Wednesday - 29 May 2024,03:58:19 PM,Burnt Calories = 16,Number of steps = 27,Distance = 0.04 km,Duration = 0 min:22 sec,**************************************************
+05/29/24,Wednesday - 29 May 2024,04:09:59 PM,Burnt Calories = 3,Number of steps = 1315,Distance = 0.02 km,Duration = 0 min:58 sec,**************************************************
