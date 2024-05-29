@@ -49,17 +49,17 @@ def caloriescalc(gender,weight,height,rpm,radius, time,age):
         return calories
     
 
-# Calculate nomber of steps taken
-def stepscalc(height,rpm,radius,time):
-    '''
-    Calcutale the steps by using given rpm value, 
-    radius - 'm', time - 'minutes' and height - 'm'
-    '''
-    gap = (height*0.413)
-    steps = distancecalc(rpm,radius,time)/gap
-    return steps
+# # Calculate nomber of steps taken
+# def stepscalc(height,rpm,radius,time):
+#     '''
+#     Calcutale the steps by using given rpm value, 
+#     radius - 'm', time - 'minutes' and height - 'm'
+#     '''
+#     gap = (height*0.413)
+#     steps = distancecalc(rpm,radius,time)/gap
+#     return steps
 
 
-def new_motor_variable(speed,radius):
-    new_rpm=(speed*(5/18))*60/(radius*2*m.pi)
-    return new_rpm
+# def new_motor_variable(speed,radius):
+#     new_rpm=(speed*(5/18))*60/(radius*2*m.pi)
+#     return new_rpm
