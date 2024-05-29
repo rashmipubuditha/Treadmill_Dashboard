@@ -545,7 +545,7 @@ def datetime():
     
 # Status bar
 status = Label(window,text='',bg='lightgray',bd=2,relief=SUNKEN,anchor=CENTER,padx=10)
-status.grid(row=3,sticky=W+E)
+# status.grid(row=3,sticky=W+E)
 
 datetime()
 
